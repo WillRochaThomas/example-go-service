@@ -14,5 +14,5 @@ You will need Golang installed, this application was developed using 1.11.2. The
 
 Then just run:
 
-`go build`
-`./example-go-service` (omit the `./` if you're on Windows)
+    go build
+    ./example-go-service (omit the './' if you're on Windows)
